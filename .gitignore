@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+env/
+venv/
+threat_intel.db
+.DS_Store
